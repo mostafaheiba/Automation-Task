@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24963" started-at="2020-02-12T11:00:34Z" finished-at="2020-02-12T11:00:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24963" started-at="2020-02-12T11:00:34Z" finished-at="2020-02-12T11:00:59Z">
+      <class name="Selenium.MVN.AutomationTask">
+        <test-method status="PASS" signature="OpenGoogle()[pri:0, instance:Selenium.MVN.AutomationTask@61832929]" name="OpenGoogle" is-config="true" duration-ms="12870" started-at="2020-02-12T13:00:34Z" finished-at="2020-02-12T13:00:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenGoogle -->
+        <test-method status="PASS" signature="SearchGoogle()[pri:0, instance:Selenium.MVN.AutomationTask@61832929]" name="SearchGoogle" duration-ms="7223" started-at="2020-02-12T13:00:47Z" finished-at="2020-02-12T13:00:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchGoogle -->
+        <test-method status="PASS" signature="RigsterOnParaBank()[pri:0, instance:Selenium.MVN.AutomationTask@61832929]" name="RigsterOnParaBank" duration-ms="2240" started-at="2020-02-12T13:00:55Z" finished-at="2020-02-12T13:00:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RigsterOnParaBank -->
+        <test-method status="PASS" signature="RequestLoan()[pri:0, instance:Selenium.MVN.AutomationTask@61832929]" name="RequestLoan" duration-ms="1781" started-at="2020-02-12T13:00:57Z" finished-at="2020-02-12T13:00:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RequestLoan -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Selenium.MVN.AutomationTask@61832929]" name="tearDown" is-config="true" duration-ms="831" started-at="2020-02-12T13:00:59Z" finished-at="2020-02-12T13:00:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Selenium.MVN.AutomationTask -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
