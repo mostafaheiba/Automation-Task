@@ -22,7 +22,7 @@ public class AutomationTask extends InitTest {
 		driver.findElement(By.xpath("(//input[@class='gNO89b'])[2]")).click();
 
 		// Click on First Result Search
-		driver.findElement(By.xpath("(//h3[@class='LC20lb']//span[contains(text(),'ParaBank - Parasoft')])[1]"))
+		driver.findElement(By.xpath("(//h3[@class='LC20lb DKV0Md'])[1]"))
 				.click();
 	}
 
